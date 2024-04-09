@@ -17,7 +17,7 @@ My commercial and science experience is described down below
 | `C++` | 1 year | OpenCL, CUDA, OpenGL |
 | `Docker` | 2 years | docker-compose, images, containers |
 
-### *TypeScipt/JavaScript* Experience
+### *TypeScript/JavaScript* Experience
 
 I have proven experience with both `SQL` and `NoSQL` databases, such as:
 
