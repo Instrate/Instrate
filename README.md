@@ -12,7 +12,7 @@ My commercial and science experience is described down below
 
 | Language | Level | Tech |
 | :- | :-: | - |
-| `TypeScript`, `JavaScript` | 3 years | NodeJs, NestJs |
+| `TypeScript`, `JavaScript` | 4 years | NodeJs, NestJs |
 | `C#` | 1.5 year | .NET, WPF, OpenGL |
 | `C++` | 1 year | OpenCL, CUDA, OpenGL |
 | `Docker` | 2 years | docker-compose, images, containers |
