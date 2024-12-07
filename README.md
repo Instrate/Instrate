@@ -36,9 +36,8 @@ I have proven experience with both `SQL` and `NoSQL` databases, such as:
 
 # Spoken languages:
 
--  `English`: Upper-Intermediate / B2
--  `Ukrainian`: Native /C2
--  `Russian`: Fluent / C1
+-  `English`: Upper-Intermediate
+-  `Ukrainian`: Native
 
 <!---
 Instrate/Instrate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
