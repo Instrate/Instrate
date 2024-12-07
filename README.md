@@ -2,7 +2,7 @@
 
 | Profile | Contacts & Description |
 | :- | - |
-|- Name: *Bohdan Savchuk*<br/>- Age: *22 y.o.*<br/>- Gender: *male*<br/>- Category: *Back-End/App Developer*|- Email: `antipich69@gmail.com`, `instrate@proton.me`<br/>- LinkedIn: [*link*](https://www.linkedin.com/in/instrate/)<br/>- Location: 🇺🇦 <br/>- Status: *happily employed* 🧑‍🏭|
+|- Name: *Bohdan Savchuk*<br/>- Age: *22 y.o.*<br/>- Gender: *male*<br/>- Category: *Back-End/App Developer*|- Email: `instrate@proton.me`<br/>- LinkedIn: [*link*](https://www.linkedin.com/in/instrate/)<br/>- Location: 🇺🇦 <br/>- Status: *happily employed* 🧑‍🏭|
 
 # Stack & Experience
 
