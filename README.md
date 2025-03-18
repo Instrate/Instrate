@@ -12,10 +12,10 @@ My commercial and science experience is described down below
 
 | Language | Level | Tech |
 | :- | :-: | - |
-| `TypeScript`, `JavaScript` | 4 years | NodeJs, NestJs |
-| `C#` | 1.5 year | .NET, WPF, OpenGL |
-| `C++` | 1 year | OpenCL, CUDA, OpenGL |
-| `Docker` | 2 years | docker-compose, images, containers |
+| `TypeScript`, `JavaScript` | 6 years | NodeJs, NestJs |
+| `C#` | 2 years | .NET, WPF, OpenGL |
+| `C++` | 1.5 years | OpenCL, CUDA, OpenGL |
+| `Docker` | 4 years | docker-compose, images, containers |
 
 ### *TypeScript/JavaScript* Experience
 
@@ -31,7 +31,7 @@ I have proven experience with both `SQL` and `NoSQL` databases, such as:
   * GitHub, GitHub Actions
   * GitLab, GitLab pipelines
 * `AWS`
-  * EC2, Nginx, DNS setup
+  * EC2, Nginx
   * Amplify
 
 # Spoken languages:
