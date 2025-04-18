@@ -22,14 +22,14 @@ My commercial and science experience is described down below
 I have proven experience with both `SQL` and `NoSQL` databases, such as:
 
 *  `MongoDB` - Mongoose
-*  `MySQL` - Sequelize, TypORM
-*  `PostgreSQL` - Sequelize, TypORM
+*  `MySQL` - Sequelize, TypeORM
+*  `PostgreSQL` - Sequelize, TypeORM
 *  `SQLite` - Sequelize
 
 ## Additional parts of stack:
 * `Git`, Deploy, CI/CD:
   * GitHub, GitHub Actions
-  * GitLab, GitLab pipelines
+  * GitLab, GitLab pipelines, templated pipelines
 * `AWS`
   * EC2, Nginx
   * Amplify
