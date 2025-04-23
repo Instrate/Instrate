@@ -6,9 +6,14 @@
 
 # Stack & Experience
 
-My commercial and science experience is described down below
+## Currently:
+- PhD student in Software Engineering 
+- Head of IT departament inside [student council](https://github.com/CP-IATE) of my insitute "ES IATE"
+- Software Engineer at [Infotech](https://infotech.gov.ua/)
 
-## Languages table
+## My commercial and scientific experience is described down below
+
+### Languages table
 
 | Language | Level | Tech |
 | :- | :-: | - |
@@ -17,7 +22,7 @@ My commercial and science experience is described down below
 | `C++` | 1.5 years | OpenCL, CUDA, OpenGL |
 | `Docker` | 4 years | docker-compose, images, containers |
 
-### *TypeScript/JavaScript* Experience
+#### *TypeScript/JavaScript* Experience
 
 I have proven experience with both `SQL` and `NoSQL` databases, such as:
 
@@ -26,7 +31,9 @@ I have proven experience with both `SQL` and `NoSQL` databases, such as:
 *  `PostgreSQL` - Sequelize, TypeORM
 *  `SQLite` - Sequelize
 
-## Additional parts of stack:
+---
+
+### Additional parts of stack:
 * `Git`, Deploy, CI/CD:
   * GitHub, GitHub Actions
   * GitLab, GitLab pipelines, templated pipelines
@@ -34,7 +41,7 @@ I have proven experience with both `SQL` and `NoSQL` databases, such as:
   * EC2, Nginx
   * Amplify
 
-# Spoken languages:
+## Spoken languages:
 
 -  `English`: Upper-Intermediate
 -  `Ukrainian`: Native
