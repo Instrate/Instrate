@@ -19,7 +19,7 @@
 | :- | :-: | - |
 | `TypeScript`, `JavaScript` | 6 years | NodeJs, NestJs, React, NextJs |
 | `C#` | 2 years | .NET, WPF, OpenGL |
-| `C++` | 1.5 years | OpenCL, CUDA, OpenGL |
+| `C++` | 1.5 years | OpenCL, CUDA, OpenGL, DLL |
 | `Docker` | 4 years | docker-compose, images, containers |
 
 #### *TypeScript/JavaScript* Experience
