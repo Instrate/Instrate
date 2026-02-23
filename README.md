@@ -2,7 +2,7 @@
 
 | Profile | Contacts & Description |
 | :- | - |
-|- Name: *Bohdan Savchuk*<br/>- Age: *23 y.o.*<br/>- Gender: *male*<br/>- Category: *Full-stack/CD Developer*|- Email: `instrate@proton.me`<br/>- LinkedIn: [*link*](https://www.linkedin.com/in/instrate/)<br/>- Location: 🇺🇦 <br/>- Status: *happily employed* 🧑‍🏭|
+|- Name: *Bohdan Savchuk*<br/>- Age: *24 y.o.*<br/>- Gender: *male*<br/>- Category: *Full-stack/CD Developer*|- Email: `instrate@proton.me`<br/>- LinkedIn: [*link*](https://www.linkedin.com/in/instrate/)<br/>- Location: 🇺🇦 <br/>- Status: *happily employed* 🧑‍🏭|
 
 # Stack & Experience
 
