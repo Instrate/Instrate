@@ -8,7 +8,7 @@
 
 ## Currently:
 - PhD student in Software Engineering 
-- Head of IT departament inside [student council](https://github.com/CP-IATE) of my insitute "ES IATE"
+- Lead mentor in IT departament inside [student council](https://github.com/CP-IATE) of my insitute "ES IATE"
 - Software Engineer at [Infotech](https://infotech.gov.ua/)
 
 ## My commercial and scientific experience is described down below
